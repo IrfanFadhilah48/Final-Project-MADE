@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Project MADE</string>
+    <string name="title_movie">Film</string>
+    <string name="title_serialtv">Serial TV</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="movie">Film</string>
+    <string name="serial_tv">TV Serial</string>
+    <string name="name_movies">nama film</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="description">Deskripsi :</string>
+    <string name="testing">9.3</string>
+    <string name="rating">Nilai :</string>
+    <string name="lorem">lorem</string>
+    <string name="duration">Durasi :</string>
+    <string name="release">Tayang :</string>
+    <string name="_2_december_2019">2 December 2019</string>
+    <string name="jaskjdbaksdb_ajsbdjasbd_kjabsdjkabs_jkbsdjba">jaskjdbaksdb ajsbdjasbd kjabsdjkabs jkbsdjba</string>
+    <string name="exit_click">tekan kembali untuk keluar</string>
+    <string name="popularity">Popularitas :</string>
+    <string name="gambar_poster">Gambar Poster</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="daily_reminder">Pengingat Waktu</string>
+    <string name="release_reminder">Pengingat Release</string>
+    <string name="reminder_showing_the_movie_if_that_released_today">Menampilkan pengingat jika ada peluncuran film terbaru </string>
+    <string name="reminder_for_return_app">Pengingat harian untuk kembali ke aplikasi</string>
+    <string name="search_text">Pencarian</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+</resources>

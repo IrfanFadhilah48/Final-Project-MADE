@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Final Project MADE</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_serialtv">TV Serial</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="movie">Movie</string>
+    <string name="serial_tv">Serial TV</string>
+    <string name="name_movies">name movies</string>
+    <string name="change_language">Change Language</string>
+    <string name="description">Description :</string>
+    <string name="testing">9.3</string>
+    <string name="rating">Rating :</string>
+    <string name="lorem">lorem</string>
+    <string name="duration">Duration :</string>
+    <string name="release">Release :</string>
+    <string name="_2_december_2019">2 December 2019</string>
+    <string name="jaskjdbaksdb_ajsbdjasbd_kjabsdjkabs_jkbsdjba">jaskjdbaksdb ajsbdjasbd kjabsdjkabs jkbsdjba</string>
+    <string name="exit_click">click twice for exit application</string>
+    <string name="popularity">Popularity :</string>
+    <string name="gambar_poster">Gambar Poster</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="reminder_showing_the_movie_if_that_released_today">reminder showing the movie if that released today</string>
+    <string name="reminder_for_return_app">reminder for return app</string>
+    <string name="search_text">Search Film or Serial</string>
+    <string name="reminder_settings">Reminder Settings</string>
+</resources>
